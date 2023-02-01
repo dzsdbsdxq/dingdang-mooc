@@ -1,0 +1,170 @@
+[
+  {
+    "name": "励志成为程序员",
+    "icon": "linecons-star",
+    "lists": [
+      {
+        "path": "63d64dc0fe713b6f90154ef0ba4d45d10749d17c",
+        "logo": "https://www.haoba.cc/upload/2023/01/go-1-1675154988225.png",
+        "title": "Go语言基础入门和编程思维",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "62d0df12e3365e2a762d4258be9e4d5acba19da1",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_16-51-20.png",
+        "title": "20个小时快速入门go语言（上）",
+        "desc": "20个小时快速入门go语言（上）",
+        "type": "video/mp4"
+      },
+      {
+        "path": "62d0df2cc57619e01ce1427a92ecf8b4a96ca6df",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_16-52-02.png",
+        "title": "20个小时快速入门go语言（中）",
+        "desc": "20个小时快速入门go语言（中）",
+        "type": "video/mp4"
+      },
+      {
+        "path": "62d0df0fed21dbf1ea114911b884f97aff21c01b",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_16-53-14.png",
+        "title": "20个小时快速入门go语言（下）",
+        "desc": "20个小时快速入门go语言（下）",
+        "type": "video/mp4"
+      },
+      {
+        "path": "6380df2377c5ecefea8c44b88f7624cb18eb9a72",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-12-22.png",
+        "title": "golang入门到项目实战",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "63752a3b61739aeb1dad421ca4bc2dd4c5d07a67",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-23-52.png",
+        "title": "Go语言从入门到实战",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "63d68c22ab6c84a5a0c942649255bc3535227293",
+        "logo": "https://www.haoba.cc/upload/2023/01/201703281419269278.png",
+        "title": "微服务视频",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "63752937b36369dfc6ca41abbf867eb9744e0469",
+        "logo": "https://www.haoba.cc/upload/2022/11/git-learning-poster.png",
+        "title": "Git从入门到精通",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "63752afff05230a65e2b469f8684b162061bee84",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-35-06.png",
+        "title": "分布式系统核心、微服务的部署",
+        "desc": ""
+      },
+      {
+        "path": "63d68f97f3a26acb0a1e44248ffd0311ce04fdca",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-36-47.png",
+        "title": "Typescript从入门到放弃",
+        "desc": ""
+      },
+      {
+        "path": "63d69016616d77947e444f53a8ea64eed90525ad",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-38-26.png",
+        "title": "Typescript从入门到坚持",
+        "desc": ""
+      },
+      {
+        "path": "63752a466642b5c9ed924072aa74f0f594f8c5f4",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-39-59.png",
+        "title": "appium学习资料",
+        "desc": "",
+        "type": "video/x-flv"
+      },
+      {
+        "path": "63752a4266d8696d017249c499e91821003f76a0",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-41-42.png",
+        "title": "MongoDB数据库",
+        "desc": ""
+      },
+      {
+        "path": "6375297a484c2eda7eff423497e0265b65ebea54",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-44-20.png",
+        "title": "SEO录制课程",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "name": "游戏人生",
+    "icon": "linecons-star",
+    "lists": [
+      {
+        "path": "639e922e1ff8fd3395224586976d0c38e0148bf6",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_16-58-19.png",
+        "title": "王者小棉花第一期-白起",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "639e9231a511122887534bff87ed180f099f539c",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-00-13.png",
+        "title": "王者小棉花特别版-米莱迪",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "639e9232c290304a5a51407f86f66a237c96d5aa",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-07-32.png",
+        "title": "王者小棉花第三期-刘备",
+        "desc": "",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  {
+    "name": "电影",
+    "icon": "linecons-star",
+    "lists": [
+      {
+        "path": "63d8e63f7deff74fe038463f8f27dd02c2044e60",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_18-09-19.png",
+        "title": "谍影重重-系列",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "63d8e64587d7d341f3e240e4a772bd4f57d49e5c",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_18-12-00.png",
+        "title": "沈腾喜剧电影5部",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "637dddffff29f52d860a4596920b048942034fa5",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-47-30.png",
+        "title": "起风了(2013)",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "637dde011999c7575598415981e10386dced6934",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-54-13.png",
+        "title": "云的彼端，约定的地方 (2004)",
+        "desc": "",
+        "type": "video/mp4"
+      },
+      {
+        "path": "637dddff855e0d1b75f44ed0a23780433dc5c412",
+        "logo": "https://www.haoba.cc/upload/2023/01/2023-01-31_17-55-39.png",
+        "title": "你的名字(2016)",
+        "desc": "",
+        "type": "video/mp4"
+      }
+    ]
+  }
+
+]

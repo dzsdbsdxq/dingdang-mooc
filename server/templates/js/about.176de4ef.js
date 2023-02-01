@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvideoshare"]=self["webpackChunkvideoshare"]||[]).push([[443],{7381:function(e,n,a){a.r(n),a.d(n,{default:function(){return d}});var r=a(3396);const s={class:"about"},u=(0,r._)("h1",null,"This is an about page",-1),t=[u];function i(e,n){return(0,r.wg)(),(0,r.iD)("div",s,t)}var c=a(89);const o={},h=(0,c.Z)(o,[["render",i]]);var d=h}}]);
